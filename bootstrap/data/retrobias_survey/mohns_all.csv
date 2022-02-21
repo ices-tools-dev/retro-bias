@@ -1,0 +1,249 @@
+"stock","terminal_catch_year","n_retros","fbar_rho","ssb_rho","ssb_intermediate_year","rec_rho","rec_intermediate_year","expert_opinion","modified","year"
+"her.27.nirs","2017","5","0.009662873","0.1577038","No","-0.1482103","No","","3/19/2018 6:35 PM",2018
+"her.27.3a47d","2017","5","-0.08199949","0.08988247","No","0.1053673","No","probably oldest fish not estimated well","8/17/2018 3:10 PM",2018
+"her.27.6a7bc","2017","5","0.053","0.152","No","0.873","No","Of more concern than the pattern of bias in the SSB is the reduction quite far back in the time series (~1983) which the most recent assessment introduces.","8/17/2018 3:15 PM",2018
+"san.sa.1r","2017","5","-0.29","0.82","No","0","No","The model is the SMS model. This model use so-called ""separability"" periods, meaning that it estimates fixed exploitation patterns for separate periods. The latest period in the time-series is relatively short (2010 and onward). Therefore if the selectivity changes over time the exploitation pattern back to 2010 is updated (re-estimated) every year affecting the years  all the way back to 2010. However, sure we need to look further into this.","8/17/2018 3:16 PM",2018
+"san.sa.2r","2017","5","-0.32","0.11","No","1.16","No","The model is the SMS model. This model use so-called ""separability"" periods, meaning that it estimates fixed exploitation patterns for separate periods. The latest period in the time-series is relatively short (2010 and onward). Therefore if the selectivity changes over time the exploitation pattern back to 2010 is updated (re-estimated) every year affecting the years  all the way back to 2010. However, sure we need to look further into this.There are also some indications that when the concentrations of sandeel is high during the survey, the survey index overestimates the true abundance (i.e. non-linear relationship between abundance and catch rates in survey). This has been shown in Johnsen et al. 2009.","8/17/2018 3:16 PM",2018
+"san.sa.3r","2017","5","0","1","No","135","No","The model is the SMS model. This model use so-called ""separability"" periods, meaning that it estimates fixed exploitation patterns for separate periods. The latest period in the time-series is relatively short (2010 and onward). Therefore if the selectivity changes over time the exploitation pattern back to 2010 is updated (re-estimated) every year affecting the years  all the way back to 2010. However, sure we need to look further into this.There are also some indications that when the concentrations of sandeel is high during the survey, the survey index overestimates the true abundance (i.e. non-linear relationship between abundance and catch rates in survey). This has been shown in Johnsen et al. 2009.","3/22/2018 12:58 PM",2018
+"san.sa.4","2017","5","0.07","-0.17","No","-0.08","No","","8/17/2018 3:18 PM",2018
+"her.27.irls","2017","5","0.221","-0.116","No","0.518","No","","3/28/2018 1:21 PM",2018
+"spr.27.4","2017","5","0.1","0.43","No","0.78","No","The high rho for recruitment has to do with the overestimation of recruitment that is made in some years by the IBTS Q1 index, which is the only information available for the most recent recruitment. We can see that recruitment is sometimes down-scaled in the following year when information from HERAS and IBTS-Q3 becomes available, simply because in some years IBTS Q1 does not agree with the other surveys.","4/3/2018 8:34 AM",2018
+"her.27.3031","2017","3","-0.131","0.144","No","0.479","No","","4/10/2018 5:15 PM",2018
+"sol.27.20-24","2017","5","-0.19","0.21","No","0.16","No","1.poor sampling due to small and scattered fishery2. fishery/stock mix between SD20 and North Sea","4/10/2018 5:25 PM",2018
+"ple.27.21-23","2017","5","-0.21","0.25","No","-0.39","No","","8/17/2018 3:17 PM",2018
+"her.27.25-2932","2017","5","-0.1093","0.1643","No","0.0132","No","Large variability in survey index, especially the last three years","4/12/2018 10:41 AM",2018
+"her.27.28","2018","9","-0.0511","0.03776","No","0.09114","No","","4/12/2018 11:04 AM",2018
+"spr.27.22-32","2017","8","-0.13","0.13","No","0.11","No","","4/12/2018 3:16 PM",2018
+"","2017","5","","","No","","No","","4/12/2018 10:07 PM",2018
+"her.27.20-24","2017","5","0.04","0.01","No","-0.08","No","No considerable retrospective pattern is observed","5/4/2018 8:24 AM",2018
+"sol.27.7d","2017","5","-0.012","0.037","No","0.079","No","The retro is quite ok. The higher variability found for the recruits is caused by the rescaling of the recruits in 2015 (year class 2014). The reason for this is probably the fact that this yearclass was 3 years old in 2017 and from then on the commercial tuning fleets come in, while the age 2 is only driven by the optimistic UK BTS and the age 1 is driven by the FRA YFS and UK BTS. ","4/28/2018 12:36 PM",2018
+"cod.21.1","2017","5","0.048","-0.213","No","-0.325","No","different stocks mix in the area, but the proportions are not quantifiable. This adds noise to the assessment, and surely causes at least part of the retrospective pattern","4/30/2018 1:36 PM",2018
+"cod.2127.1f14","2017","5","-0.075","0.087","No","-0.207","No","The highest rho is on recruitment. There are years with very little recruitment, and because rho is a relative measure, even small difference at very low values will result in a large rho which does not reflect the actual uncertainty","4/30/2018 1:43 PM",2018
+"her.27.5a","2017","5","0.0574","0.00638","Yes","-0.0168","No","Additional natural mortality related to Ichthyophonus infection in the stock has been set for some years (2009-2011 and 2016) in the stock assessment. This has been shown to cause retrospective pattern in the assessment. ","4/30/2018 4:43 PM",2018
+"cod.27.47d20","2018","5","-0.068","0.104","Yes","0.259","Yes","The latest IBTS Q1 and Q3 data have caused a bias due to failure to track older cohorts","5/1/2018 11:32 AM",2018
+"ple.27.7d","2017","5","-0.021","0.0126","No","-0.37","No","","5/1/2018 2:25 PM",2018
+"sol.27.4","2017","6","-0.099","0.027","Yes","-0.097","Yes","","5/1/2018 6:00 PM",2018
+"whg.27.47d","2017","5","0.02542","-0.04706","No","0.13816","No","","5/1/2018 6:02 PM",2018
+"pok.27.3a46","2017","5","0.0283","-0.01341","No","-0.06879","No","","5/2/2018 4:59 PM",2018
+"ple.27.420","2017","6","-0.108","0.0024","No","0.025","No","","5/3/2018 10:54 AM",2018
+"had.27.46a20","2017","5","-0.140262","0.07333843","No","2.490263","No","","5/3/2018 4:43 PM",2018
+"sol.27.8ab","2017","5","0.021","0.035","Yes","0.056","Yes","","5/5/2018 8:53 AM",2018
+"ldb.27.8c9a","2017","5","-0.02","0.08","No","-0.47","No","","5/5/2018 3:13 PM",2018
+"meg.27.8c9a","2017","5","-0.3","0.4","No","1.18","No","","5/5/2018 3:14 PM",2018
+"mon.27.8c9a","2017","5","0.12","-0.113","No","0.659","No","","5/5/2018 4:55 PM",2018
+"cod.27.5a","2017","5","-0.007","0.015","No","0.01","No","","5/6/2018 2:28 PM",2018
+"hke.27.8c9a","2017","6","-0.243","0.315","No","0.859","No","Extremely high retro in Recruitment is caused by the usually quite biased estimate of the last year. However this is replace with a geomean for projection purposes.Not a clear knowledge on the cause but if I'd have to make a ranking list this would be: (1) catches, (2) not considered changes in M, (3) not considered changes in growth and (4) not considered changes in catchability.","5/7/2018 9:32 AM",2018
+"mon.27.78abd","2017","5","0.0904777","0.04875494","No","-0.1810028","No","Strong recruitment in 2014 was revised downward in consecutive years and weak recruitment in 2013 was revised upwards. Presumably due to a conflict between the recruitment survey and the catch data or perhaps problem with estimation of age distribution.","5/8/2018 9:02 AM",2018
+"had.27.5a","2017","5","0.115","-0.0417","Yes","-0.246","Yes","","5/8/2018 11:33 AM",2018
+"reg.27.561214","2017","5","-0.0416","0.0543","Yes","-0.442","Yes","The model only shows bias in recruitment in the last few year. This is expected as it takes a few years for the yc to recruit to the fishery.  ","5/8/2018 12:33 PM",2018
+"pok.27.5b","2017","10","-0.06","0.4","No","1.28","No","","5/8/2018 3:42 PM",2018
+"hke.27.3a46-8abd","2017","5","0.06811594","-0.05543391","No","0.09188724","Yes","Inconsistencies between datasets and parameters, probably length frequency distributions and assumptions on growth and natural mortality,","5/9/2018 9:42 AM",2018
+"ank.27.8c9a","2017","6","-0.127","0.125","No","0","No","This stock was assessed using a production model (SPICT). Values are reported for F/Fmsy and B/Bmsy.","5/10/2018 6:37 PM",2018
+"cod.27.5b1","2017","6","0.16","0","No","-0.15","No","","8/17/2018 3:14 PM",2018
+"ple.27.7a","2017","10","-0.006478532","0.084293236","Yes","0.033166235","No","Small retrospective bias in SSB in 2004 likely resulted from the introduction of discards estimates based on samples collected from that year (prior to 2004, discards estimates are reconstructed values based on size-varying discard rates).","5/12/2018 9:28 AM",2018
+"sol.27.7e","2017","5","-0.1515692","0.1834528","No","-0.03294885","No","High landings at age 3 for 2017. Likely caused by 0 discards by UK (landing obligation, junger/shorter fish retained) and possibly strong year class. This leads to a rescaling in the XSA assessment.","5/12/2018 4:03 PM",2018
+"had.27.5b","2017","5","-0.17","0.2","No","0.1","Yes","","5/14/2018 10:24 AM",2018
+"cod.27.7e-k","2017","5","-0.1754027","2.086486","No","4.677771","No","SSB rho (2012-2017) is high as there was a pic of SSB in 2012 and 2013. From 2014 onwards, SSB values are lower and more stable.Recruitment rho (2012-2017) is very high due to the high variability of cod recruitement over years. As other gadoids, cod recruitement is characterised by episodic and high variable recruitment.","5/14/2018 10:48 AM",2018
+"","2017","5","","","No","","No","","5/14/2018 3:08 PM",2018
+"ghl.27.561214","2017","5","0.058536089","-0.037319405","No","0","Not Applicable","Assessment is a stock production model; therefore no recruitment rho","5/16/2018 3:01 PM",2018
+"had.27.7a","2017","5","-0.2493536","0.5800962","Yes","-0.09587513","No","Re-estimation of selectivity patterns and 'short' terminal selectivity blocks (5yrs). There is also thought to be influence of decreasing tuning series length with each retro peel.","5/17/2018 10:08 AM",2018
+"bss.27.4bc7ad-h","2017","5","0.02426937","0.0004208265","No","1.370714","No","Recruitment: the model estimates the final two years as GM recruitment and these are then re-estimated with new data.","5/17/2018 3:01 PM",2018
+"cod.27.7a","2017","6","-0.4771596","0.6972204","No","0","No","","5/17/2018 3:26 PM",2018
+"sol.27.7a","2017","5","-0.0056","0.0097","No","0.00197","No","","5/17/2018 3:40 PM",2018
+"sol.27.7fg","2017","5","-0.066","0.111","No","0.35","No","There appears to be an apparent retrospective bias in estimating F and SSB in the most recent years, at which F was underestimated and SSB was overestimated. Moreover, the current assessment showes a substantial downward revision of the SSB and a substantial upward revision of the F back to 2003. This might be related to a change in the selectivity of the Belgian commercial tuning fleet over time. Moreover, in recent years the older ages in this tuning fleet have greater influence on the assessment as the UK(E&W)–CBT fleet doesn’t provide information after 2012.","5/17/2018 3:49 PM",2018
+"bss.27.8ab","2017","5","0.01165439","0.02039861","No","0.5249742","No","","5/24/2018 2:43 PM",2018
+"cod.27.6a","2017","5","0.2265","-0.2287","Yes","0.0298","Yes","TSA assessment estimates that there is no persistent trend in F resulting in the F in terminal year being estimated at the long term average.  More appropriate assumptions about the catch data cvs may resolve the issue.","5/25/2018 6:08 PM",2018
+"hom.27.9a","2017","5","0.302","-0.178","No","-0.607","No",".The 2017 input from IBTS survey index was the highest in the time series (6 times above average). Sensitivity analysis revealed that the retrospective bias in R and SSB, showing major deviations from the previous assessments was likely due to a combination of high proportion of catches in ages 1-2 and this historical high abundance observed in the survey index in 2017 (ICES WGHANSA 2018). This revision upward of stock abundance resulted in Fbar being revised downwards relatively to previous years.","7/2/2018 2:58 PM",2018
+"had.27.7b-k","2017","5","0.369","-0.238","No","1.066","No","Estimation of recruitment in the last year of each assessment.This is estimated as the geometric mean of the time series.This is quite a crude method of forecasting.","8/1/2018 5:26 PM",2018
+"whb.27.1-91214","2018","5","-0.075","0.118","No","-0.037","No","","9/3/2018 10:17 AM",2018
+"hom.27.2a4a5b6a7a-ce-k8","2017","5","0.538","-0.339","No","0.259","No","Triennial egg survey causes a general rescaling of the estimates whenever a new year of data becomes available.","9/3/2018 6:47 PM",2018
+"mac.27.nea","2017","5","0.23","-0.09","No","0.05","No","","11/20/2018 11:33 AM",2018
+"ane.27.8","2018","5","0.070747319","-0.044337391","Yes","-0.105276157","Yes","Two F value (by semester) and an HR value were provided (ONLY THE HIGHEST F VALUE WAS USED):F semester 1	F semester 2	Harvest rate (Catch/SSB)0.070747319	0.005694497	0.073890394Regarding the terminal year/intermediate year issue:For instance in the assessment we have conducted right now, we have used data up to 2018 (including preliminary catches in 2018), which means that we get estimates for Recruitment (age 1) at the beginning of 2019 and SSB, F in semester 1 and 2 and Hr up to 2018. So we’ve computed the  Mohn’s rho for recruitment in the intermediate year (used for the STF) and for SSB, F sem1 and sem2 and harvest rate in to the terminal year. ","12/3/2018 1:20 PM",2018
+"cod.27.22-24","2018","10","0.01","0.12","No","0.47","No","The very high retro for R was caused by one very large  (2016) year class down scaled due to low values in Q4 survey in 2018.  In the last assessment rho was estimated to 0.27 for recruitment.","4/23/2019 3:08 PM",2018
+"nop.27.3a4","2018","5","-25","41","No","87","No","","10/21/2019 10:08 AM",2018
+"pil.27.8c9a","2017","5","0.017","-0.015","Yes","0.035","No","Values are different from the values presented in the WGHANSA report because it is now acknowledge that while running the different peels the stock annex was not followed, namely the assumptions for the intermediate year on weights, fecundity data and catch-at-age data. A working document will be presented to ICES with clarifications on this matter.","10/31/2019 4:59 PM",2018
+"whg.27.6a","2017","5","0.167444","-0.1368919","Yes","0.02406661","Yes","","11/14/2019 6:33 PM",2018
+"pok.27.5a","2017","5","-0.03","-0.3","No","1.39","No","","1/13/2020 2:21 PM",2018
+"san.sa.1r","2018","5","-0.22000","0.78000","No","0.04000","No","Selection pattern of the fishery is fixed in the last time block from 2010-present. Estimation is jumping for the older age groups as years are removed in the retro and the time block gets smaller.","11/12/2019 7:31 PM",2019
+"san.sa.2r","2018","5","-0.10000","0.85000","No","1.22000","No","Selection pattern of the fishery is fixed in the last time block from 2010-present. Estimation is jumping for the older age groups as years are removed in the retro and the time block gets smaller.","11/12/2019 7:31 PM",2019
+"san.sa.3r","2018","5","0.02000","0.10000","Yes","1.10000","Yes","Unclear the reasons for high retro in the recruitment. Changes in catchability of the dredge survey have been hypothesized","1/30/2019 3:11 PM",2019
+"san.sa.4","2018","5","-0.03000","0.13000","Yes","0.22000","Yes","There has been no fishery for almost a decade. This is reflected in the retrospective which results from availability of few data","1/30/2019 3:17 PM",2019
+"pra.27.3a4a","2018","5","-0.20290","0.08550","Yes","0.27340","Yes","Retrospective bias in the recruitment is likely due to the difficulty in estimating the year class from only one observation (the norwegian survey). Squid plots of retrospective patterns in estimation of recruitment deviations also show that you need two observation years of a cohort to estimate it (more) accurately. ","3/1/2019 11:43 AM",2019
+"her.27.nirs","2018","5","0.05200","0.07000","No","-13.80000","No","","3/21/2019 9:30 AM",2019
+"her.27.irls","2018","5","-0.05800","0.17200","No","1.10000","No","","3/21/2019 10:00 AM",2019
+"her.27.6a7bc","2018","5","25.00000","-23.27000","No","-7.87000","No","","3/21/2019 10:04 AM",2019
+"her.27.20-24","2018","5","-0.07000","0.13000","No","-0.07000","No","","3/21/2019 10:23 AM",2019
+"her.27.3a47d","2018","5","-12.00000","11.10000","No","8.00000","No","inclusion of 2018 data produced a significant increase in retrospective, most influenced by HERAS and catch data (most informative data sources).","3/21/2019 11:33 AM",2019
+"spr.27.3a4","2019","5","0.08900","0.27000","No","0.22000","No","The fact that the fish this year turned out to be much smaller than the 3-year average used in the forecast, created a bias in F and SSB. Large recruitment estimates tend to be down-scaled a bit the following year and we just had to years with very high recruitment-index values. It should also be noted that during the benchmark we managed to improve the retro a lot (reducing it by a factor of c. 3 for Rec and SSB). We anticipate that Fcap will handle any uncertainty introduced to the forecast from the retro-bias.","5/3/2019 9:13 AM",2019
+"her.27.28","2018","5","0.22256","-0.17834","No","-0.21392","No","","4/13/2019 6:01 PM",2019
+"her.27.25-2932","2018","5","-0.04921","0.06681","No","-0.06916","No","","4/13/2019 5:37 PM",2019
+"spr.27.22-32","2018","5","-0.22000","0.21000","No","0.07000","No","last year bias was much lower","4/14/2019 11:35 PM",2019
+"cod.27.24-32","2019","5","-0.23000","0.22000","Yes","-0.70000","Yes","The rho for recruitment is for age 0, that is the youngest age in the assessment model (SS). Large retrospective bias for age 0 is expected as it takes about 2-3 years of data for a year class to be determined with high precision as shown by the squid plot of retrospectives of recruitment deviations (WKBALTCOD2 2019). The recruitment presented for stock status is for age 2.","4/16/2019 3:25 PM",2019
+"ple.27.21-23","2018","5","-0.13000","0.14000","No","-0.11000","No","Intermediate year NOT used for SSB and Rin 2019, the retrospective bias has been strongly reduced (e.g. from 48% to 14% in the SSB) by adding more ages in the survey tuning indices (extending from 5 to 6 ages in both Q1 and Q3-4 surveys)","4/16/2019 3:48 PM",2019
+"sol.27.20-24","2018","5","-14.00000","0.13000","No","0.03000","No","Increased sampling from fishery has likely improved the retro pattern from previous years","4/16/2019 3:51 PM",2019
+"her.27.3031","2018","5","-27.00000","37.00000","No","68.00000","No","Very low survey index in the last three years and mismatch with the low survey index with the commercial catch data.  ","5/27/2019 2:59 PM",2019
+"cod.27.22-24","2018","5","0.01000","0.12000","No","0.47000","No","Numbers of years used in the retro was 10. The high rho value for R was caused by 1 very large year class (2016) downs scaled due to the survey in Q4 2016.  Last year the rho for R was o.27","4/23/2019 4:02 PM",2019
+"sol.27.7d","2018","5","0.00038","0.04600","No","0.08600","No","no bias","4/26/2019 11:28 AM",2019
+"cod.21.1","2018","5","0.05800","-0.22200","No","-0.40600","No","","4/30/2019 3:30 PM",2019
+"cod.2127.1f14","2018","5","0.02400","0.01000","No","-0.12300","No","","4/30/2019 3:26 PM",2019
+"her.27.5a","2018","5","0.05800","-0.06600","Yes","-0.30800","Yes","","4/30/2019 3:47 PM",2019
+"cod.27.5a","2018","5","-0.01300","0.00800","Yes","0.04300","Yes","The SPALY setup shows high internal consistency. However, there is a difference in the assessment if one uses only one survey at a time in the tuning series. Also using survey indices for age groups 1 to 14 (instead of the SPALY age 1-10) gives a slightly different perception of the stock dynamics. Because the fishing mortalities in recent decade are low the assessment converges very slowly. These differences are not encaptured in the calculation. ","5/1/2019 11:50 AM",2019
+"ple.27.7d","2018","5","-0.01455","0.03127","No","-0.40469","No","","5/2/2019 10:21 AM",2019
+"sol.27.4","2018","5","-0.09366","0.07056","No","-0.12291","No","","5/2/2019 10:51 AM",2019
+"cod.27.47d20","2018","5","-0.15400","0.15700","Yes","0.43800","Yes","For the last couple of years the downward revision in SSB and upward revision of F can be accounted for by removing the latest IBTS Q1 and, to a lesser extent, IBTS Q3 survey data.","5/3/2019 12:27 PM",2019
+"nop.27.3a4","2018","5","-25.00000","41.00000","No","87.00000","No","Will be investigated more closely ","5/3/2019 3:04 PM",2019
+"ldb.27.8c9a","2018","5","0.00000","0.06000","No","-0.08000","No","","5/6/2019 11:53 AM",2019
+"meg.27.8c9a","2018","5","-0.21000","0.20000","No","0.12000","No","","5/6/2019 12:06 PM",2019
+"mon.27.8c9a","2018","5","-0.07000","-0.15000","Yes","0.74000","No","","5/6/2019 12:32 PM",2019
+"tur.27.4","2018","5","0.03713","-0.09811","No","-0.12360","No","No explanation for F and SSB. Large bias in recruitement could be cause by a lack of surveys catching small turbot and the lack of internal consistency to track cohorts over time in general. ","5/7/2019 4:39 PM",2019
+"pok.27.5a","2018","5","-0.07000","0.08000","Yes","-0.46000","No","Survey indices for this stock are very noisy, F not very high and  retro of 5 years meaningless exercise.  Longer term retro (20 years) gives SSB rho of -0.02 the value is just depending on how many periods of over and underestimation are included.   Recruitment estimated are always poor usually N3 is underestimated.  ","5/8/2019 11:08 AM",2019
+"reg.27.561214","2018","5","-0.01860","0.02520","No","-0.21940","No","","5/9/2019 12:46 PM",2019
+"bss.27.8ab","2018","5","0.02900","0.02300","No","0.56200","No","","5/9/2019 1:40 PM",2019
+"ple.27.7a","2018","5","-0.05474","0.04642","No","0.00231","No","","5/10/2019 6:34 PM",2019
+"sol.27.7fg","2018","5","-0.05000","0.07100","Yes","0.10500","No","","5/13/2019 2:44 PM",2019
+"sol.27.7a","2018","5","-0.04000","0.04200","No","-0.02500","No","","5/13/2019 2:49 PM",2019
+"had.27.5a","2018","5","-0.06573","0.02585","No","0.04479","No","","5/14/2019 3:40 PM",2019
+"sol.27.7e","2018","5","0.04068","-0.00759","No","0.00784","No","","5/15/2019 5:40 PM",2019
+"lez.27.4a6a","2017","5","-0.09200","0.08800","Yes","0.00000","Not Applicable","N\A","5/17/2019 9:30 AM",2019
+"usk.27.5a14","2018","5","-0.07700","0.10900","No","0.02900","No","The definition of 'intermediate year' should be given on this webpage - they were not answered. The terminal year in the series was that last year with survey data available to inform estimates. ","5/17/2019 4:50 PM",2019
+"whg.27.7a","2018","5","-1.90000","0.12900","No","0.29000","No","","5/20/2019 12:59 PM",2019
+"cod.27.7a","2018","5","-0.51720","0.92200","No","0.00000","Not Applicable","This is a recovering stock, strongly dependent on individual-stronger- year classes. With a currently very steep age structure (fish at age 3/4 seem to be subject to migration or unexpectedly high natural mortality) the strong cohort size gets adjusted downward  by the model.The stock has now been classified as category 3.","5/24/2019 2:58 PM",2019
+"had.27.7b-k","2018","5","0.11300","-0.17200","No","0.00300","No","Past years assessment rho values have included the intermediate yeas as the terminal year.  This has meant that recruitment was assumed to be the geometric mean of the full time series observations of recruitment, which has not been the case - this is a crude means of estimating the future, hence the future estimated values notably dissimilar to the observed values.  Rho this year is calculated on data not including the intermediate year as the terminal year (ie assessment year -2 as the most recent of the 5 years included (last data year -1).This year only SSB showed any notable shift in the retrospective analysis, F & R estimates were similar to historic estimates.  SSB is falling though it shifted up. in comparison to proceeding years.  Cause of retrospective differences - minor changes in input data.  ASAP incorporates a 3 year running average of weights at age - this changes a couple of years data points every year.  Minor changes and updates in input data followoing data updates in intermediate year approximations to observations, recruitment, wanted, unwanted catch, unallocated catch.  Rebalnacing back a few years in the model to get the catch, surveys, age class weights to balance out across the age classes for each year and catch weights with relative and assumed recruitment.","5/24/2019 3:53 PM",2019
+"cod.27.7e-k","2018","5","-0.39000","0.49000","No","0.27000","No","","5/24/2019 4:05 PM",2019
+"whg.27.7b-ce-k","2018","5","0.00927","0.06136","No","0.88136","No","Historically poor selection of 0-group fish in the surveys has generally led to revised recruitment. However, in 2019 assessment 1-3yr old fish are  poorly represented in the survey index and particularly in the French commercial OTB discard data which has led to a significant downward revision in recruitment, therefore SSB and a resulting upward revision in Fbar. ","5/25/2019 11:09 PM",2019
+"cod.27.6a","2018","5","0.11000","0.03000","Yes","0.19000","No","The TSA provides an estimate of R in the intermediate year (based on a Q1 survey) - including this in the Mohn's rho gives a value of 1.71.  The WG agreed not to use this estimate of recruitment & replaced with a short term GM.","5/27/2019 4:54 PM",2019
+"pok.27.3a46","2018","5","-0.02400","0.02400","No","-0.02300","No","","6/4/2019 12:32 PM",2019
+"had.27.46a20","2018","5","-0.06890","0.06730","Yes","1.06530","Yes","High rho value for recruitment is caused by the values used for the intermediate year.  This recruitment value comes from the assessment model prediction for the intermediate year this prediction has been overly optimistic in the last few years.  ","6/4/2019 12:49 PM",2019
+"whg.27.47d","2018","5","-0.01687","0.01272","No","0.28087","No","Bias in recruitment mainly due to uncertainty in age 0 abundance, estimated using NS-IBTS quarter 3 survey index.","6/4/2019 1:04 PM",2019
+"ple.27.420","2018","5","-0.12200","0.00650","No","0.12500","No","","6/4/2019 1:06 PM",2019
+"wit.27.3a47d","2018","5","0.11820","-0.07600","No","0.10420","No","","6/4/2019 1:26 PM",2019
+"hom.27.9a","2018","5","0.24500","-0.19500","No","-0.24400","No","Additional information: rho for recruitment was estimated without the terminal year because of the very high uncertainty in the terminal year estimate from the model","6/6/2019 5:07 PM",2019
+"her.27.1-24a514a","2018","5","0.10193","-0.04597","Yes","0.59651","Yes","5 peels where made.n should then be 6 if this years assessment is to be included in n.","9/2/2019 4:11 PM",2019
+"whb.27.1-91214","2019","5","0.05900","-0.01800","No","-0.13400","No","Preliminary catches for 2019 were used on the advice.","9/3/2019 12:53 PM",2019
+"mon.27.78abd","2018","5","0.01060","0.13600","No","-0.10600","No","","10/28/2019 3:42 PM",2019
+"meg.27.7b-k8abd","2018","5","-0.21900","0.30800","No","0.76000","No","","10/28/2019 3:58 PM",2019
+"had.27.7a","2018","5","0.09000","0.18500","Yes","-0.28300","No","","11/7/2019 3:30 PM",2019
+"whg.27.6a","2018","5","0.15858","-0.06036","Yes","0.29536","Yes","","11/14/2019 6:46 PM",2019
+"mac.27.nea","2018","3","0.24100","-0.12700","Yes","-0.03500","No","assessment with short time series (5 years of data for the recaptures of RFID tags)","11/15/2019 3:27 PM",2019
+"pil.27.8c9a","2018","5","0.10000","-0.06300","Yes","-0.11000","No","for each assessment used the stock annex was followed which means that mean weights at age were use for the intermediate year.","11/27/2019 9:53 AM",2019
+"ane.27.8","2019","5","0.01200","-0.00100","Yes","-0.01600","Yes","Catch data for the intermediate year (=terminal year) were assumed to be zero, so that SSB and fishing mortality by semester for the intermediate year were not considered reliable, i.e. only estimates of recruitment in the intermediate year were analysed.","12/2/2019 2:56 PM",2019
+"pok.27.5b","2018","5","0.06000","0.33000","No","0.50000","No","","1/13/2020 1:52 PM",2019
+"cod.27.5b1","2018","5","-0.10000","0.02000","No","-0.08000","No","","1/13/2020 1:53 PM",2019
+"had.27.5b","2018","5","0.09000","0.11000","No","0.03000","No","","1/13/2020 1:53 PM",2019
+"cap.27.1-2","2018","5","-0.01000","0.08000","No","-0.20000","No","","1/13/2020 2:04 PM",2019
+"sol.27.8ab","2018","5","0.05300","0.02700","No","0.19300","No","","1/13/2020 2:11 PM",2019
+"hke.27.3a46-8abd","2018","5","0.00800","-0.00500","No","-0.01100","No","","1/13/2020 2:14 PM",2019
+"hke.27.8c9a","2018","5","-0.30000","0.45000","No","-1.06000","No","","1/13/2020 2:15 PM",2019
+"cod.27.1-2","2018","5","-0.01000","0.08000","No","-0.20000","No","","1/13/2020 2:19 PM",2019
+"spr.27.3a4","2019","5","0.02000","0.35000","No","0.31000","No","","3/23/2020 8:16 AM",2020
+"her.27.3a47d","2020","5","-12.29581","11.48475","No","2.99267","No","","3/23/2020 4:39 PM",2020
+"her.27.20-24","2019","5","-0.17841","0.24722","No","0.01614","No","","5/6/2020 4:03 PM",2020
+"her.27.nirs","2019","5","-0.15800","0.08800","Yes","-0.26200","No","","3/27/2020 7:38 PM",2020
+"her.27.irls","2019","5","-0.35640","1.10440","No","2.79700","No","","3/31/2020 4:01 PM",2020
+"cod.2127.1f14","2019","5","0.39500","-0.19100","No","-0.44200","No","No survey ws carried out in 2018Only German survey was performed in 2019 and no 1 or 2 years old was caught","4/19/2020 2:58 PM",2020
+"cod.21.1","2019","5","0.03100","-0.23300","No","-0.58400","No","","4/19/2020 3:00 PM",2020
+"reg.27.561214","2019","5","-0.05850","0.05680","No","-0.05880","No","","4/20/2020 4:43 PM",2020
+"her.27.28","2019","5","0.23513","-0.17380","No","-0.16526","No","","4/28/2020 2:07 PM",2020
+"ple.27.7d","2020","5","0.01700","-0.00030","No","-0.32400","No","","4/30/2020 5:18 PM",2020
+"tur.27.4","2019","5","0.07570","-0.11260","No","-0.04960","No","","4/30/2020 6:22 PM",2020
+"sol.27.7d","2019","5","-0.08200","0.08300","No","-0.04800","No","","4/30/2020 6:34 PM",2020
+"ple.27.420","2019","5","-0.08900","-0.07300","No","0.12900","No","","5/1/2020 11:55 AM",2020
+"sol.27.4","2019","5","0.14600","0.23400","No","-0.22200","No","A combination of a large recruitment event and changes in selectivity in the last year(s) affecting catchability estimates seem to be the cause.","5/1/2020 2:32 PM",2020
+"wit.27.3a47d","2019","5","0.13920","-0.10250","No","-0.19330","No","Assessment available on stockassessment.org: ""wit.27.3a47d__2020""","5/4/2020 10:13 AM",2020
+"pok.27.3a46","2019","5","-0.08293","0.05484","No","0.00889","No","Historically low recruitment in past couple years","5/4/2020 3:39 PM",2020
+"her.27.6a7bc","2019","5","16.05944","-20.33791","No","24.19302","No","Multiple populations with varying dynamics being assessed as a single stock.","5/5/2020 10:23 PM",2020
+"cod.27.47d20","2019","5","-0.12100","0.28600","Yes","0.52100","Yes","Apparent changes to survey catchability and discrepancies between stock trends implied by fishery dependent and independent sources.","5/6/2020 5:59 PM",2020
+"meg.27.7b-k8abd","2019","5","-0.19140","0.27350","No","0.52390","No","","5/13/2020 11:02 AM",2020
+"had.27.46a20","2019","5","0.11910","0.01420","Yes","0.80340","Yes","The high Mohn's rho value for recruitment is driven by the inclusion of the intermediate year recruitment estimate that comes from the stock assessment model to be used in the forecast.  Generally, this estimate overestimates the size of the intermediate year class except for year's when haddock has one of it's sporadic larger year classes where it vastly underestimates the size of the year class.","5/13/2020 11:30 AM",2020
+"hke.27.3a46-8abd","2019","5","-0.17800","0.19600","No","0.09900","No","This year the retrospective problem has got worst with a minor data revision. Apparently the assessment model is suffering from some convergence problems that are platform dependent (linux or windows).","5/13/2020 12:20 PM",2020
+"sol.27.8ab","2019","5","0.10800","-0.02000","No","0.22000","No","","5/13/2020 12:53 PM",2020
+"mon.27.8c9a","2019","5","-0.10000","0.06000","Yes","0.57000","No","","5/13/2020 2:38 PM",2020
+"mon.27.78abd","2019","5","-0.06400","0.18700","No","0.02400","No","We developed in ss3 a base case and some preliminary analysis indicate that time blocks and a decrease in growth with maturity could improve the mohns rho. The WD number 3 explaines the process and results.","5/13/2020 3:11 PM",2020
+"bss.27.8ab","2019","5","0.02000","0.04300","No","0.28000","No","","5/13/2020 4:11 PM",2020
+"hke.27.8c9a","2019","5","0.35000","-0.54000","No","-0.73000","No","Conflicting signals in abundance trends and uncertain mortality (or migration). See WGBIE 2020 (WD-5) for an indepth analysis.","5/13/2020 4:21 PM",2020
+"ank.27.8c9a","2019","5","-0.01400","-0.00400","No","0.00000","Not Applicable","SPiCt assessment. Rho values estimated for F/Fmsy and B/Bmsy","5/13/2020 5:28 PM",2020
+"ldb.27.8c9a","2019","5","-0.11000","0.15000","No","-0.13000","No","","5/13/2020 6:00 PM",2020
+"meg.27.8c9a","2019","5","-0.34000","0.35000","No","0.17000","No","This is the first year the assessment model (XSA) converged. Maybe the differences with previous years can be due to this.","5/13/2020 6:04 PM",2020
+"sol.27.7e","2019","5","0.09688","-0.06255","No","-0.11115","No","Especially high numbers of landings at age 3 in 2017 means that this year looks irregular compared to the others.","5/14/2020 4:15 PM",2020
+"cod.27.6a","2019","5","0.08700","-0.06000","No","0.20300","Yes","","5/15/2020 11:51 AM",2020
+"bss.27.4bc7ad-h","2019","5","0.14900","0.17900","No","0.93500","No","The high mohn's rho value in recruitment is due to the model using the geometric mean in the last couple of years.If recreational catches are re-estimated at every peel using a later version of SS (see below), the retrospective pattern for Fbar and SSB is still clear but mohn's rho gets closer to 0 compared to the present values. This may be a more appropriate way to run the retrospective analysis here. This is because recreational catches are unknown - what is ""known"" is the F multiplier which corresponds to the management measures in place compared to F2012 for the recreational fleet. So recreational catches have to be estimated iteratively at every new assessment at the moment. By peeling years of the latest assessment, the F multiplier will not match its expected value anymore, unless recreational catches were estimated again.What is described above would be corrected for if the latest version of SS was used for the assessment, with the F method = 2, and a precise F index on the recreational catches. In this new set up, with a fixed catch value in 2012 and large uncertainty on the catch of the other years, the recreational catches for these other years would be estimated inside the model, and hence at every peel. This set up gave mohn s rho values of 0.137 and -0.113 for SSB and Fbar.What might cause the remaining pattern is the gradual change in selectivity of the fishery due to management regulations that is not captured in the model in its current form?","5/15/2020 6:11 PM",2020
+"sol.27.7a","2019","5","-0.05000","0.03300","No","-0.06800","No","","5/15/2020 2:49 PM",2020
+"lez.27.4a6a","2019","5","0.08616","0.04585","No","0.00000","Not Applicable","","5/22/2020 2:43 PM",2020
+"san.sa.1r","2019","5","-0.20000","0.67000","No","0.20000","No","","5/25/2020 12:41 PM",2020
+"san.sa.2r","2019","5","-0.16000","0.57000","No","0.52000","No","","5/25/2020 12:42 PM",2020
+"san.sa.3r","2019","5","0.03000","-0.06000","No","0.13000","No","","5/25/2020 12:44 PM",2020
+"san.sa.4","2019","5","-0.05000","0.25000","No","0.19000","No","","5/25/2020 12:45 PM",2020
+"had.27.7a","2019","5","0.02000","0.06000","Yes","-0.39000","No","","5/28/2020 10:12 AM",2020
+"pil.27.8c9a","2019","5","0.05949","-0.11206","Yes","-0.24064","No","","5/29/2020 12:48 PM",2020
+"sol.27.7fg","2019","5","-0.00422","0.03404","No","-0.02029","No","","5/29/2020 6:58 PM",2020
+"whg.27.47d","2019","5","-0.07180","0.06410","No","0.13500","No","","6/2/2020 11:11 AM",2020
+"ple.27.7a","2019","5","-0.08000","0.07400","No","0.00030","No","Used function ""mohn"" from R package ""stockassessment"".","6/3/2020 4:17 PM",2020
+"hom.27.2a4a5b6a7a-ce-k8","2019","5","-0.15500","0.22000","No","0.41400","No","Some bias is caused by the inclusion of new data points such as the egg survey every 3 years.The model is run in SS and is also sensitive to variance adjustment factors (which are not re-estimated at every peel). I think there is less retrospective bias when running the assessment in SAM.","9/3/2020 11:51 AM",2020
+"pok.27.5b","2019","5","-0.04000","0.32000","No","0.52000","No","","11/4/2020 1:12 PM",2020
+"cod.27.5b1","2019","5","-0.14000","0.07000","Yes","1.78000","Yes","The huge retrospective bias in the recruitment is likely due to either food shortage or cannibalism or both. For more information, see the NWWG 2020 report.","11/18/2020 2:06 PM",2020
+"had.27.5b","2019","5","-0.18000","0.14000","No","0.49000","No","","11/18/2020 1:20 PM",2020
+"ane.27.8","2020","5","-0.10901","0.12356","Yes","-0.07303","Yes","Note that the value introduced in Fbar corresponds to the Mohn's rho of the Harvest Rate","12/3/2020 3:29 PM",2020
+"pil.27.8abd","2019","5","-0.20300","0.21400","Yes","0.00900","Yes","","12/3/2020 4:21 PM",2020
+"whb.27.1-91214","2019","5","0.13000","-0.07400","Yes","-0.06000","Yes","Preliminary catches for first two quarters of intermediate year (2020) used in model.","1/11/2021 3:46 PM",2020
+"had.27.1-2","2019","5","0.00000","-0.03000","No","-0.04000","No","","1/12/2021 8:32 AM",2020
+"her.27.1-24a514a","2019","5","-0.09400","-0.01200","Yes","0.00000","Not Applicable","","1/12/2021 8:33 AM",2020
+"mac.27.nea","2019","5","0.19900","-0.05400","Yes","0.05800","Yes","6 peels used","1/12/2021 8:34 AM",2020
+"reb.27.1-2","2019","5","0.01000","-0.01000","No","-0.38000","No","","1/12/2021 8:35 AM",2020
+"reg.27.1-2","2019","5","0.56000","-0.29000","No","0.01000","No","","1/12/2021 8:36 AM",2020
+"pok.27.1-2","2019","5","0.09000","-0.05000","No","-0.17000","No","","4/20/2021 9:14 AM",2020
+"spr.27.3a4","2019","5","0.02000","0.35000","No","0.31000","No","","3/23/2020 8:16 AM",2021
+"her.27.3a47d","2020","5","-12.29581","11.48475","No","2.99267","No","","3/23/2020 4:39 PM",2021
+"her.27.20-24","2019","5","-0.17841","0.24722","No","0.01614","No","","5/6/2020 4:03 PM",2021
+"her.27.nirs","2019","5","-0.15800","0.08800","Yes","-0.26200","No","","3/27/2020 7:38 PM",2021
+"her.27.irls","2019","5","-0.35640","1.10440","No","2.79700","No","","3/31/2020 4:01 PM",2021
+"cod.2127.1f14","2019","5","0.39500","-0.19100","No","-0.44200","No","No survey ws carried out in 2018Only German survey was performed in 2019 and no 1 or 2 years old was caught","4/19/2020 2:58 PM",2021
+"cod.21.1","2019","5","0.03100","-0.23300","No","-0.58400","No","","4/19/2020 3:00 PM",2021
+"reg.27.561214","2019","5","-0.05850","0.05680","No","-0.05880","No","","4/20/2020 4:43 PM",2021
+"her.27.28","2019","5","0.23513","-0.17380","No","-0.16526","No","","4/28/2020 2:07 PM",2021
+"ple.27.7d","2020","5","0.01700","-0.00030","No","-0.32400","No","","4/30/2020 5:18 PM",2021
+"tur.27.4","2019","5","0.07570","-0.11260","No","-0.04960","No","","4/30/2020 6:22 PM",2021
+"sol.27.7d","2019","5","-0.08200","0.08300","No","-0.04800","No","","4/30/2020 6:34 PM",2021
+"ple.27.420","2019","5","-0.08900","-0.07300","No","0.12900","No","","5/1/2020 11:55 AM",2021
+"sol.27.4","2019","5","0.14600","0.23400","No","-0.22200","No","A combination of a large recruitment event and changes in selectivity in the last year(s) affecting catchability estimates seem to be the cause.","5/1/2020 2:32 PM",2021
+"wit.27.3a47d","2019","5","0.13920","-0.10250","No","-0.19330","No","Assessment available on stockassessment.org: ""wit.27.3a47d__2020""","5/4/2020 10:13 AM",2021
+"pok.27.3a46","2019","5","-0.08293","0.05484","No","0.00889","No","Historically low recruitment in past couple years","5/4/2020 3:39 PM",2021
+"her.27.6a7bc","2019","5","16.05944","-20.33791","No","24.19302","No","Multiple populations with varying dynamics being assessed as a single stock.","5/5/2020 10:23 PM",2021
+"cod.27.47d20","2019","5","-0.12100","0.28600","Yes","0.52100","Yes","Apparent changes to survey catchability and discrepancies between stock trends implied by fishery dependent and independent sources.","5/6/2020 5:59 PM",2021
+"meg.27.7b-k8abd","2019","5","-0.19140","0.27350","No","0.52390","No","","5/13/2020 11:02 AM",2021
+"had.27.46a20","2019","5","0.11910","0.01420","Yes","0.80340","Yes","The high Mohn's rho value for recruitment is driven by the inclusion of the intermediate year recruitment estimate that comes from the stock assessment model to be used in the forecast.  Generally, this estimate overestimates the size of the intermediate year class except for year's when haddock has one of it's sporadic larger year classes where it vastly underestimates the size of the year class.","5/13/2020 11:30 AM",2021
+"hke.27.3a46-8abd","2019","5","-0.17800","0.19600","No","0.09900","No","This year the retrospective problem has got worst with a minor data revision. Apparently the assessment model is suffering from some convergence problems that are platform dependent (linux or windows).","5/13/2020 12:20 PM",2021
+"sol.27.8ab","2019","5","0.10800","-0.02000","No","0.22000","No","","5/13/2020 12:53 PM",2021
+"mon.27.8c9a","2019","5","-0.10000","0.06000","Yes","0.57000","No","","5/13/2020 2:38 PM",2021
+"mon.27.78abd","2019","5","-0.06400","0.18700","No","0.02400","No","We developed in ss3 a base case and some preliminary analysis indicate that time blocks and a decrease in growth with maturity could improve the mohns rho. The WD number 3 explaines the process and results.","5/13/2020 3:11 PM",2021
+"bss.27.8ab","2019","5","0.02000","0.04300","No","0.28000","No","","5/13/2020 4:11 PM",2021
+"hke.27.8c9a","2019","5","0.35000","-0.54000","No","-0.73000","No","Conflicting signals in abundance trends and uncertain mortality (or migration). See WGBIE 2020 (WD-5) for an indepth analysis.","5/13/2020 4:21 PM",2021
+"ank.27.8c9a","2019","5","-0.01400","-0.00400","No","0.00000","Not Applicable","SPiCt assessment. Rho values estimated for F/Fmsy and B/Bmsy","5/13/2020 5:28 PM",2021
+"ldb.27.8c9a","2019","5","-0.11000","0.15000","No","-0.13000","No","","5/13/2020 6:00 PM",2021
+"meg.27.8c9a","2019","5","-0.34000","0.35000","No","0.17000","No","This is the first year the assessment model (XSA) converged. Maybe the differences with previous years can be due to this.","5/13/2020 6:04 PM",2021
+"sol.27.7e","2019","5","0.09688","-0.06255","No","-0.11115","No","Especially high numbers of landings at age 3 in 2017 means that this year looks irregular compared to the others.","5/14/2020 4:15 PM",2021
+"cod.27.6a","2019","5","0.08700","-0.06000","No","0.20300","Yes","","5/15/2020 11:51 AM",2021
+"bss.27.4bc7ad-h","2019","5","0.14900","0.17900","No","0.93500","No","The high mohn's rho value in recruitment is due to the model using the geometric mean in the last couple of years.If recreational catches are re-estimated at every peel using a later version of SS (see below), the retrospective pattern for Fbar and SSB is still clear but mohn's rho gets closer to 0 compared to the present values. This may be a more appropriate way to run the retrospective analysis here. This is because recreational catches are unknown - what is ""known"" is the F multiplier which corresponds to the management measures in place compared to F2012 for the recreational fleet. So recreational catches have to be estimated iteratively at every new assessment at the moment. By peeling years of the latest assessment, the F multiplier will not match its expected value anymore, unless recreational catches were estimated again.What is described above would be corrected for if the latest version of SS was used for the assessment, with the F method = 2, and a precise F index on the recreational catches. In this new set up, with a fixed catch value in 2012 and large uncertainty on the catch of the other years, the recreational catches for these other years would be estimated inside the model, and hence at every peel. This set up gave mohn s rho values of 0.137 and -0.113 for SSB and Fbar.What might cause the remaining pattern is the gradual change in selectivity of the fishery due to management regulations that is not captured in the model in its current form?","5/15/2020 6:11 PM",2021
+"sol.27.7a","2019","5","-0.05000","0.03300","No","-0.06800","No","","5/15/2020 2:49 PM",2021
+"lez.27.4a6a","2019","5","0.08616","0.04585","No","0.00000","Not Applicable","","5/22/2020 2:43 PM",2021
+"san.sa.1r","2019","5","-0.20000","0.67000","No","0.20000","No","","5/25/2020 12:41 PM",2021
+"san.sa.2r","2019","5","-0.16000","0.57000","No","0.52000","No","","5/25/2020 12:42 PM",2021
+"san.sa.3r","2019","5","0.03000","-0.06000","No","0.13000","No","","5/25/2020 12:44 PM",2021
+"san.sa.4","2019","5","-0.05000","0.25000","No","0.19000","No","","5/25/2020 12:45 PM",2021
+"had.27.7a","2019","5","0.02000","0.06000","Yes","-0.39000","No","","5/28/2020 10:12 AM",2021
+"pil.27.8c9a","2019","5","0.05949","-0.11206","Yes","-0.24064","No","","5/29/2020 12:48 PM",2021
+"sol.27.7fg","2019","5","-0.00422","0.03404","No","-0.02029","No","","5/29/2020 6:58 PM",2021
+"whg.27.47d","2019","5","-0.07180","0.06410","No","0.13500","No","","6/2/2020 11:11 AM",2021
+"ple.27.7a","2019","5","-0.08000","0.07400","No","0.00030","No","Used function ""mohn"" from R package ""stockassessment"".","6/3/2020 4:17 PM",2021
+"hom.27.2a4a5b6a7a-ce-k8","2019","5","-0.15500","0.22000","No","0.41400","No","Some bias is caused by the inclusion of new data points such as the egg survey every 3 years.The model is run in SS and is also sensitive to variance adjustment factors (which are not re-estimated at every peel). I think there is less retrospective bias when running the assessment in SAM.","9/3/2020 11:51 AM",2021
+"pok.27.5b","2019","5","-0.04000","0.32000","No","0.52000","No","","11/4/2020 1:12 PM",2021
+"cod.27.5b1","2019","5","-0.14000","0.07000","Yes","1.78000","Yes","The huge retrospective bias in the recruitment is likely due to either food shortage or cannibalism or both. For more information, see the NWWG 2020 report.","11/18/2020 2:06 PM",2021
+"had.27.5b","2019","5","-0.18000","0.14000","No","0.49000","No","","11/18/2020 1:20 PM",2021
+"ane.27.8","2020","5","-0.10901","0.12356","Yes","-0.07303","Yes","Note that the value introduced in Fbar corresponds to the Mohn's rho of the Harvest Rate","12/3/2020 3:29 PM",2021
+"pil.27.8abd","2019","5","-0.20300","0.21400","Yes","0.00900","Yes","","12/3/2020 4:21 PM",2021
+"whb.27.1-91214","2019","5","0.13000","-0.07400","Yes","-0.06000","Yes","Preliminary catches for first two quarters of intermediate year (2020) used in model.","1/11/2021 3:46 PM",2021
+"had.27.1-2","2019","5","0.00000","-0.03000","No","-0.04000","No","","1/12/2021 8:32 AM",2021
+"her.27.1-24a514a","2019","5","-0.09400","-0.01200","Yes","0.00000","Not Applicable","","1/12/2021 8:33 AM",2021
+"mac.27.nea","2019","5","0.19900","-0.05400","Yes","0.05800","Yes","6 peels used","1/12/2021 8:34 AM",2021
+"reb.27.1-2","2019","5","0.01000","-0.01000","No","-0.38000","No","","1/12/2021 8:35 AM",2021
+"reg.27.1-2","2019","5","0.56000","-0.29000","No","0.01000","No","","1/12/2021 8:36 AM",2021
+"pok.27.1-2","2019","5","0.09000","-0.05000","No","-0.17000","No","","4/20/2021 9:14 AM",2021
